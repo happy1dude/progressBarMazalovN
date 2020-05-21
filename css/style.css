@@ -1,0 +1,38 @@
+.header-wrapper {
+	background-color: #2BBFAC;
+	height: 120px;
+	width: 1050px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	
+}
+
+.header-pb {
+	display: flex;
+	justify-content: center;
+	color: #F5F5F5;
+}
+
+.links-wrapper {
+	display: flex;
+	justify-content: space-around;
+}
+
+.button-style {
+	color: #ffffff;
+	background-color: #FF2D2D;
+	width: 227px;
+	padding: 17px 0;
+	text-decoration: none;
+	text-align: center;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	border: none;
+}
+
+
+.wrapper-progress {
+	margin: 0 auto;
+	width: 1050px;
+}
